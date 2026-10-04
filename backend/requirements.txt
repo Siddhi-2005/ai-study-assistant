@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+faiss-cpu
+google-generativeai
+python-dotenv
+python-multipart
